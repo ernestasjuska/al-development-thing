@@ -1,0 +1,278 @@
+{
+    "@odata.context": "http://devtest16:7048/BC/ODataV4/$metadata#Company('My%20Company')/ALDTExtensionManagement",
+    "value": [
+        {
+            "@odata.etag": "W/\"JzQ0O2pLVDhOZGszemNFME03UWkvSmwxQUw5REVOeUtIZy91WGFmeHQrZnNDL1E9MTswMDsn\"",
+            "Runtime_Package_ID": "1c8679df-fae1-4eb2-a386-38253cd0132a",
+            "AdditionalInfo": "Installed",
+            "Name": "AL Development Thing",
+            "Version": "v. 1.0.0.0"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3IvMkRpUE9EVzlHK2dTcHFQS3lyZmFTZzNWQkVCV2lsZEExSzdRdXJJT3c9MTswMDsn\"",
+            "Runtime_Package_ID": "57e7673a-5967-424c-811a-ec4d7e0324ea",
+            "AdditionalInfo": "Installed",
+            "Name": "Application",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzMrb3VKNVlxZWRLWVpoeWxiQ0krdDdETDluR3hpTmpmeVhPS1huQlNySms9MTswMDsn\"",
+            "Runtime_Package_ID": "ff5d999f-6b8f-466b-a89b-afc1595b4a91",
+            "AdditionalInfo": "Installed",
+            "Name": "Base Application",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3B2dC9Pd1F2ZnAxaG0zMWdKUk1laW5UdGxwWUJkdlRzdmkxOUNpUkg4TWc9MTswMDsn\"",
+            "Runtime_Package_ID": "3c0fa4fd-898c-4adb-9728-798dbaca1d9c",
+            "AdditionalInfo": "Installed",
+            "Name": "Business Central Cloud Migration - Previous Release",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3FWTXgyL2R3cFBNeGlhQjkwVkk2RUZTTWpVaXFJNmxrbkhPZEs4dHpjK009MTswMDsn\"",
+            "Runtime_Package_ID": "4693229f-e331-4eaf-b46c-b207544dc4a3",
+            "AdditionalInfo": "Installed",
+            "Name": "Business Central Intelligent Cloud",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzR4elQ1d1RHcEZ0NUluczVCMjVZVzU5Z1dWVklNK25ET0NocVRleUpQRTQ9MTswMDsn\"",
+            "Runtime_Package_ID": "2054c5c9-af3e-492f-a8b1-fe2e10aabdc5",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Czech language (Czechia)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3dYWUZBcWRMYzU1dFlEcWV4Qk9kZFBremdYVVFyZjQrYU9PTWJnVWZwSDA9MTswMDsn\"",
+            "Runtime_Package_ID": "c4d99c49-59a4-4411-9f99-6c88588b032c",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Danish language (Denmark)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O043aGZwTk5DVk9zaHBjalFwMnY5eVNlOFByOU92UXpBLzZLdGlSN2RIZnc9MTswMDsn\"",
+            "Runtime_Package_ID": "ed43a848-7201-4da9-8418-eebf866da488",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Dutch language (Belgium)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2pmbGNUUStsY2ZaNWE4NGRxMllzZjJmMGs4WFB0aU1lTVFtV1R0RDRCZlU9MTswMDsn\"",
+            "Runtime_Package_ID": "b31190e1-1ecb-4a65-9210-8da59fe34901",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Dutch language (Netherlands)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1g2TEREYVJuL3Zydk1MYmJ2RWxIK1RHc0tjTWFGWHlBd2ZOek1NaDRiS0E9MTswMDsn\"",
+            "Runtime_Package_ID": "de2407cb-342a-4ec6-8481-6316b94c20ab",
+            "AdditionalInfo": "Not Installed",
+            "Name": "English language (Australia)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0tEVmR5SHk1SitQNGttZXYrVVRHSlZVVnYwN2hTSmcyald0UGdRNVpBSTg9MTswMDsn\"",
+            "Runtime_Package_ID": "c27c6b4c-2dd9-48d7-80bf-2a7796b0629a",
+            "AdditionalInfo": "Not Installed",
+            "Name": "English language (Canada)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2FIck83TjA2TTJ6dEhjVTBzelNBOTAvMEpxSWtjbGN2dGlqbHVNdk96eE09MTswMDsn\"",
+            "Runtime_Package_ID": "972afd2c-504d-4932-9893-a620c36dafc1",
+            "AdditionalInfo": "Not Installed",
+            "Name": "English language (New Zealand)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0syalRBQUdUcVY5elZVOFNIRE1TTVRDbFVkM01JTGcwN2c2emdsZWRWaFU9MTswMDsn\"",
+            "Runtime_Package_ID": "71282736-016e-43cd-9b34-b2ab7eb38f8d",
+            "AdditionalInfo": "Not Installed",
+            "Name": "English language (United Kingdom)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3BCOEo3VzRoSm1XcUhGN0RJMkVwSUFueG9vaVordnRxY0FFWGpSeGxkQkU9MTswMDsn\"",
+            "Runtime_Package_ID": "7226c368-4d2a-4b35-bcb7-1ba92d0c91b4",
+            "AdditionalInfo": "Not Installed",
+            "Name": "English language (United States)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0xUem53SXQwWHZMQ3hwajV3QlVxRGFwcUIxeDdnUk9kRThHSDQyTUp4WXM9MTswMDsn\"",
+            "Runtime_Package_ID": "893ae99a-8e29-401f-aad2-3f6d1f4ac580",
+            "AdditionalInfo": "Installed",
+            "Name": "Essential Business Headlines",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0dTZitpdXJQdlBwM3VBMEZZMVB2aU1xUnNuRWFxRDRlYnFGODBuTUMrMGs9MTswMDsn\"",
+            "Runtime_Package_ID": "ae78f185-5ff1-4a62-a31c-685c2776b858",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Finnish language (Finland)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O29DWjNYd3VONW44emw0ZVZQRzQxRFBNZHpRWkxSaDk1ZGVXbEZXeWJuUU09MTswMDsn\"",
+            "Runtime_Package_ID": "e3f2f567-b44e-4a67-a33c-91e0ae65bc2c",
+            "AdditionalInfo": "Not Installed",
+            "Name": "French language (Belgium)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0lUOHJHaVg3cXhBdkNDLzE3TUxKL29NVUZUVjM5L21LbmtPSzNWWGJRVjQ9MTswMDsn\"",
+            "Runtime_Package_ID": "ba65701c-4f98-40da-93a7-c5e2cabcb7fc",
+            "AdditionalInfo": "Not Installed",
+            "Name": "French language (Canada)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2hBWDV3NEk4MS84TDdxMzlVK21pSjkrandKTEZBQ0I5ZXlTN2xOa3pub3c9MTswMDsn\"",
+            "Runtime_Package_ID": "ba6fd441-45c1-454e-b533-9424fbeeb898",
+            "AdditionalInfo": "Not Installed",
+            "Name": "French language (France)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3VLbGVNS2w2Q01HbkxISDhWYnZMYWJOK1VaYk1ZY0pFTStNZTRPbVBFQUU9MTswMDsn\"",
+            "Runtime_Package_ID": "72d2d4ce-5a9b-4b63-ba1f-8b768ba16d2b",
+            "AdditionalInfo": "Not Installed",
+            "Name": "French language (Switzerland)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0xzZXlCZzZmZ2pORmtiSDMxRkRuaHNORjhXMEFOOTB5S0dZbisvZG43cUU9MTswMDsn\"",
+            "Runtime_Package_ID": "3593d8d9-ad1c-4403-8c60-fd4c7935d309",
+            "AdditionalInfo": "Not Installed",
+            "Name": "German language (Austria)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2ZNejMyRWJINGxNbGVPeUJjK0hXR2VlZ0VzZUZVMXRVS0txeklTM2hIb3c9MTswMDsn\"",
+            "Runtime_Package_ID": "5ac7cf8c-e8e8-4ea2-ac5b-167de7be5dab",
+            "AdditionalInfo": "Not Installed",
+            "Name": "German language (Germany)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3hrVnJaVW01dDlUVmFXbDF5QUVqNTE2RExRMnZ3NkhiS2o2Q0hIMHl6ZFk9MTswMDsn\"",
+            "Runtime_Package_ID": "bff1007e-cd8b-4ba9-a7a6-bed352b9a6d3",
+            "AdditionalInfo": "Not Installed",
+            "Name": "German language (Switzerland)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzdyM3luVGVzZ2pqODVxRFlXdlJqWUZSZE9IUFRyREdZc1UyYmh3ajE2VmM9MTswMDsn\"",
+            "Runtime_Package_ID": "92035f78-5868-4cfa-8a5e-6d089771bb6b",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Icelandic language (Iceland)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OytnQlFGNjhpbm9LWUVmc3FNaDFXdW0vcUU3bkFuUmRiLytjWkZweStmSVU9MTswMDsn\"",
+            "Runtime_Package_ID": "7e7b9002-be93-4edb-bf32-668542d07fca",
+            "AdditionalInfo": "Installed",
+            "Name": "Intelligent Cloud Base",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1Y1NTVPZllkN3ltb3JiVmpNc2Q1RFBrQ3dSYUo0Z3Z5RjAxemVQakhCQUE9MTswMDsn\"",
+            "Runtime_Package_ID": "0d4cd8bc-333b-4242-b369-ca2a0c92f5bd",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Italian language (Italy)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0xIYlYydVorQVdpRXc0ejltSjNxYnBsY2grQ3M5VkRxYldPeXNUWUN3aVk9MTswMDsn\"",
+            "Runtime_Package_ID": "51c8a925-4fe6-4691-bca0-e8a9b4ee1fa6",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Italian language (Switzerland)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzFUMzVzOHZwV3dheUJKT1ljZ1N1aWNkbVJFa201YUFSczk0RzNpcW5kNFk9MTswMDsn\"",
+            "Runtime_Package_ID": "7fd1bc4d-53d2-4dc0-8fef-6c14e0ca09da",
+            "AdditionalInfo": "Installed",
+            "Name": "Late Payment Prediction",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1JnOXppZzdSRzE0RjVhQTFLV2JuMDhYZEdOb01vYXUxY05VTUt3aTlBTWM9MTswMDsn\"",
+            "Runtime_Package_ID": "d808267c-1e36-48db-990c-5014a6be08e3",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Microsoft Pay Payments",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0ZGN1lNUkN4VWNUTEJLSGpZcEpzM01VVzlwbVlESTVQdC9rVjdjMjROQVU9MTswMDsn\"",
+            "Runtime_Package_ID": "eb647b93-76cb-4db3-b680-90b4303cd2d2",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Norwegian language (Norway)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O3c5TWU2MGtoelR1bm1aWU5EUEZnMXg2NVhJZ1pzSnppMDdnd0ZqdHlvTmc9MTswMDsn\"",
+            "Runtime_Package_ID": "d955f1b8-474a-4019-98b8-6c4a2931fa01",
+            "AdditionalInfo": "Installed",
+            "Name": "PayPal Payments Standard",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O1pxaU5OZVpZWW5BNXRrUVdyZ0tkUjZ5U3F1NHFmKy9CM0tDZ0svMGZEQlE9MTswMDsn\"",
+            "Runtime_Package_ID": "a5bb82bf-e8f6-4711-a701-f57ea0c096c3",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Russian language (Russia)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0Oy9wWUs5amJGeURkMkRhT3lBaTVzMVZ5VjNZZW56dERZdGFPMDlPTzk1bzg9MTswMDsn\"",
+            "Runtime_Package_ID": "0754c239-f02f-49d7-bad2-d56751ccb55e",
+            "AdditionalInfo": "Installed",
+            "Name": "Sales and Inventory Forecast",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2tmOFE2QktjTWUrZTRRUUZpV0F1aTNCQS82N1hFQWJ1Tyt2YVhqZ1M4WWc9MTswMDsn\"",
+            "Runtime_Package_ID": "d19c9633-8ffa-46e7-99af-49b193da049e",
+            "AdditionalInfo": "Installed",
+            "Name": "Send remittance advice by email",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2d6R2VxOW1qSHFWcGlLalFjeTlHemZiZVZMWVIwbUxNR3FQK1NmOHNBeTA9MTswMDsn\"",
+            "Runtime_Package_ID": "be78309e-e00e-4dfd-8433-1cc65d0e7cec",
+            "AdditionalInfo": "Installed",
+            "Name": "Send To Email Printer",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OzR0dGZuZDY0Y0VxeEZqenR0Qit1ckJlUHYvRkRqVDZGY2VrYTcvb3h5QVU9MTswMDsn\"",
+            "Runtime_Package_ID": "d697359d-6c6e-4f32-a511-b830d44365c4",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Spanish language (Mexico)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O0JlR3M3dlM0Z0NvOFNWb0hLemRDWWlIOElERldMMDI5QWpxRk1KNXhZRHM9MTswMDsn\"",
+            "Runtime_Package_ID": "6ac4f50b-5f78-4146-8b53-5c4c0d2066cc",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Spanish language (Spain)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0OytEekxtS3l2eFkvdjBzdGt6SW1JVTN2WjBxSEtGMTJpZk5PQnlZemlseDg9MTswMDsn\"",
+            "Runtime_Package_ID": "2bba7b1f-6691-4d62-a16b-4562c429c516",
+            "AdditionalInfo": "Not Installed",
+            "Name": "Swedish language (Sweden)",
+            "Version": "v. 16.4.14693.15645"
+        },
+        {
+            "@odata.etag": "W/\"JzQ0O2kra2JVbFo3eGJiYm0yUVhHWnd6OXVnNGhqdEltSVlicTA0a1EweGtrWEE9MTswMDsn\"",
+            "Runtime_Package_ID": "0059bad3-782f-415e-b0bb-42704eb03833",
+            "AdditionalInfo": "Installed",
+            "Name": "System Application",
+            "Version": "v. 16.4.14693.15645"
+        }
+    ]
+}

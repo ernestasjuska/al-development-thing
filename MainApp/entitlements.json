@@ -1,0 +1,46 @@
+﻿{
+  "MembershipEntitlements": [
+    {
+      "Id": "5c78a8f8-ec4a-4b19-8b47-156ea813e007",
+      "SetId": "AL Development Thing",
+      "EntitlementType": 0
+    }
+  ],
+  "EntitlementSets": [
+    {
+      "SetId": "AL Development Thing",
+      "Entitlements": [
+        {
+          "ObjectType": 0,
+          "ObjectIdRangeStart": 50100,
+          "ObjectIdRangeEnd": 50100,
+          "Read": 1,
+          "Insert": 1,
+          "Modify": 1,
+          "Delete": 1,
+          "Execute": 0
+        },
+        {
+          "ObjectType": 1,
+          "ObjectIdRangeStart": 50100,
+          "ObjectIdRangeEnd": 50100,
+          "Read": 0,
+          "Insert": 0,
+          "Modify": 0,
+          "Delete": 0,
+          "Execute": 1
+        },
+        {
+          "ObjectType": 3,
+          "ObjectIdRangeStart": 50100,
+          "ObjectIdRangeEnd": 50100,
+          "Read": 0,
+          "Insert": 0,
+          "Modify": 0,
+          "Delete": 0,
+          "Execute": 1
+        }
+      ]
+    }
+  ]
+}

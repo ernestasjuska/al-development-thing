@@ -48,10 +48,10 @@ report 50100 "ALDT Test"
         TempBlob.CreateInStream(RequestContentReader);
         RequestContent.WriteFrom(RequestContentReader);
 
-        HttpClient.Post('http://localhost:7049/bc160/dev/apps?tenant=default&SchemaUpdateMode=synchronize&DependencyPublishingOption=default', RequestContent, Response);
+        HttpClient.Post('http://localhost:7049/bc/dev/apps?tenant=default&SchemaUpdateMode=synchronize&DependencyPublishingOption=default', RequestContent, Response);
 
         ResponseContent := Response.Content();
-        if not RequestContent.ReadAs(ResponseText) then
+        if not ResponseContent.ReadAs(ResponseText) then
             ResponseText := '';
 
         if not Response.IsSuccessStatusCode() then
