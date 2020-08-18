@@ -1,0 +1,41 @@
+﻿{
+	"folders": [
+		{
+			"path": "MainApp"
+		},
+		{
+			"path": "TestApp"
+		},
+		{
+			"path": "ExampleApp"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/*.code-workspace": false,
+			"MainApp/": false,
+			"TestApp/": false
+		},
+		"[al]": {
+			"files.trimTrailingWhitespace": true,
+			"files.trimFinalNewlines": true,
+		},
+		"al.enableCodeAnalysis": true,
+		"al.codeAnalyzers": [
+			"${CodeCop}",
+			"${UICop}",
+			"${PerTenantExtensionCop}",
+			"${AppSourceCop}"
+		],
+		"al.ruleSetPath": "./al.ruleset.json",
+		"CRS.OnSaveAlFileAction": "Rename",
+		"CRS.ObjectNamePrefix": "ALDT ",
+		"CRS.RemovePrefixFromFilename": true,
+		"CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al"
+	}
+}

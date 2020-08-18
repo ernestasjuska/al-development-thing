@@ -1,0 +1,30 @@
+﻿{
+  "id": "6ae1b8ce-f5cf-4f80-b831-886b97a3110f",
+  "name": "AL Development Thing",
+  "publisher": "Ernestas Juška",
+  "version": "1.0.0.0",
+  "brief": "AL Development Thing",
+  "description": "AL Development Thing",
+  "privacyStatement": "https://github.com/ernestasjuska",
+  "EULA": "https://github.com/ernestasjuska",
+  "help": "https://github.com/ernestasjuska",
+  "url": "https://github.com/ernestasjuska",
+  "contextSensitiveHelpUrl": "https://github.com/ernestasjuska",
+  "logo": "logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "application": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "5.0",
+  "features": [
+    "TranslationFile"
+  ],
+  "supportedLocales": ["en-US", "lt-LT"]
+}

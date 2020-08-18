@@ -1,0 +1,30 @@
+﻿{
+  "id": "2091ed20-129a-4882-be7e-dcb14f89f7b4",
+  "name": "Example for ALDT",
+  "publisher": "Ernestas Juška",
+  "version": "1.0.0.0",
+  "brief": "Example",
+  "description": "Example",
+  "privacyStatement": "https://github.com/ernestasjuska",
+  "EULA": "https://github.com/ernestasjuska",
+  "help": "https://github.com/ernestasjuska",
+  "url": "https://github.com/ernestasjuska",
+  "contextSensitiveHelpUrl": "https://github.com/ernestasjuska",
+  "logo": "../MainApp/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "application": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "5.0",
+  "features": [
+    "TranslationFile"
+  ],
+  "supportedLocales": ["en-US", "lt-LT"]
+}
