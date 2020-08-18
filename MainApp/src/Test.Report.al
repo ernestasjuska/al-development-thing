@@ -8,6 +8,7 @@ report 50100 "ALDT Test"
     var
         Base64Convert: Codeunit "Base64 Convert";
         TempBlob: Codeunit "Temp Blob";
+        Uri: Codeunit Uri;
         HttpClient: HttpClient;
         RequestContent: HttpContent;
         HttpHeaders: HttpHeaders;
@@ -37,7 +38,7 @@ report 50100 "ALDT Test"
         TempBlob.CreateOutStream(RequestContentWriter);
         RequestContentWriter.WriteText(
             '--' + Boundary + NewLine +
-            'Content-Disposition: form-data; name="=?utf-8?B?RXJuZXN0YXMgSnXFoWthX0FMIERldmVsb3BtZW50IFRoaW5nXzEuMC4wLjAuYXBw?="; filename="=?utf-8?B?RXJuZXN0YXMgSnXFoWthX0FMIERldmVsb3BtZW50IFRoaW5nXzEuMC4wLjAuYXBw?="; filename*=utf-8''''package.app' + NewLine +
+            'Content-Disposition: form-data; name="=?utf-8?B?RXJuZXN0YXMgSnXFoWthX0FMIERldmVsb3BtZW50IFRoaW5nXzEuMC4wLjAuYXBw?="; filename="=?utf-8?B?RXJuZXN0YXMgSnXFoWthX0FMIERldmVsb3BtZW50IFRoaW5nXzEuMC4wLjAuYXBw?="; filename*=utf-8''''' + Uri.EscapeDataString(ClientFileName) + NewLine +
             NewLine);
         CopyStream(RequestContentWriter, PackageStream);
         RequestContentWriter.WriteText(
