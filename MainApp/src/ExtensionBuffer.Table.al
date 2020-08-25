@@ -6,7 +6,7 @@ table 50100 "ALDT Extension Buffer"
         {
             DataClassification = CustomerContent;
         }
-        field(2; "App ID"; Guid)
+        field(2; "Application ID"; Guid)
         {
             DataClassification = CustomerContent;
         }

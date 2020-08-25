@@ -24,7 +24,7 @@ codeunit 50100 "ALDT Extension Mgt."
             TempExtensionBuffer2.Init();
 
             TempExtensionBuffer2."Package ID" := JSONHelper.GetText(ODataItemJson, 'packageId');
-            TempExtensionBuffer2."App ID" := JSONHelper.GetText(ODataItemJson, 'id');
+            TempExtensionBuffer2."Application ID" := JSONHelper.GetText(ODataItemJson, 'id');
             TempExtensionBuffer2.Name := CopyStr(JSONHelper.GetText(ODataItemJson, 'displayName'), 1, MaxStrLen(TempExtensionBuffer2.Name));
             TempExtensionBuffer2.Publisher := CopyStr(JSONHelper.GetText(ODataItemJson, 'publisher'), 1, MaxStrLen(TempExtensionBuffer2.Publisher));
             TempExtensionBuffer2."Version Major" := JSONHelper.GetInteger(ODataItemJson, 'versionMajor');

@@ -29,6 +29,11 @@ page 50100 "ALDT Extension Management"
                 {
                     ApplicationArea = All;
                 }
+                field("Application ID"; Rec."Application ID")
+                {
+                    ApplicationArea = All;
+                    Visible = false;
+                }
             }
         }
     }
