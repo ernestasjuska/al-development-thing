@@ -3,8 +3,8 @@
     <TenantWebServiceCollection>
         <TenantWebService>
             <ObjectType>Page</ObjectType>
-            <ServiceName>ALDTExtensionManagement</ServiceName>
-            <ObjectID>2500</ObjectID>
+            <ServiceName>ALDTTenantExtensions</ServiceName>
+            <ObjectID>20002</ObjectID>
             <Published>true</Published>
         </TenantWebService>
     </TenantWebServiceCollection>
